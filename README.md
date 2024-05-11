@@ -10,3 +10,6 @@ The data folder structure is like below-
 
 
 ![25_visualization](https://github.com/iamshrey22/CorrSAM-Segment-Anything-Model-with-LoRA-Fine-Tuning-for-RGB-images/assets/122277584/cbf81bb5-9441-4bec-9d95-763f46fa03de)
+
+![14_visualization](https://github.com/iamshrey22/CorrSAM-Segment-Anything-Model-with-LoRA-Fine-Tuning-for-RGB-images/assets/122277584/9e282ca2-4c15-45b1-ac78-2ee7b806a7e6)
+
