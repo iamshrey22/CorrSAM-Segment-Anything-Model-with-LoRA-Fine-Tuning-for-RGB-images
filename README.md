@@ -13,3 +13,5 @@ The data folder structure is like below-
 
 ![14_visualization](https://github.com/iamshrey22/CorrSAM-Segment-Anything-Model-with-LoRA-Fine-Tuning-for-RGB-images/assets/122277584/9e282ca2-4c15-45b1-ac78-2ee7b806a7e6)
 
+Remaining details can be found in final_project_report.pdf
+
